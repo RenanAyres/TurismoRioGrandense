@@ -29,7 +29,7 @@ const _gallery = [
 	},
 	{
 		img: "assets/img-7-saomiguel.jpg",
-		description: "São miguel das Missões"
+		description: "São Miguel das Missões"
 	}
 ]
 
